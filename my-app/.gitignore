@@ -65,3 +65,5 @@ aio/content/examples/.DS_Store
 firebase.json
 .firebaserc
 .firebase/
+
+/src/environments/
